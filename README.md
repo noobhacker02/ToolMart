@@ -1,12 +1,89 @@
-# React + Vite
+# ToolMart - A Modern E-commerce Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
 
-Currently, two official plugins are available:
+ToolMart is a fully responsive e-commerce website that mimics the functionality and design of major online retailers like Amazon. This project focuses on providing a clean, user-friendly interface for browsing and shopping for a wide variety of tools, enhanced with subtle animations for a better user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo:** [**https://talhatalha.netlify.app/**](https://talhatalha.netlify.app/)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Modern UI/UX:** A clean and intuitive interface designed for a seamless shopping experience.
+* **Dynamic Homepage:** A welcoming homepage featuring a main banner, top deals, and featured product categories.
+* **Product Discovery:**
+    * Comprehensive search functionality to find specific items.
+    * Easy navigation through various categories like "Today's Deals," "New Arrivals," and "Best Sellers."
+    * Ability to browse products by top brands like Bosch, DeWalt, and Makita.
+* **User Account Management:** Sections for users to sign in, manage their accounts, and view past orders.
+* **Shopping Cart:** A fully functional shopping cart to add and manage items before checkout.
+* **Subtle Animations:** Minimalistic and smooth animations powered by Framer Motion to enhance user interaction.
+* **Fully Responsive Design:** The layout is optimized for all devices, including desktops, tablets, and mobile phones.
+* **Newsletter Subscription:** An option for users to stay updated with the latest offers and products.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **Deployment:** Netlify
+
+## 📸 Screenshots
+
+| Homepage & Navigation                                    | Deals & Categories                                         |
+| -------------------------------------------------------- | ---------------------------------------------------------- |
+| *[Add your Homepage screenshot here]* | *[Add your Deals & Categories screenshot here]* |
+| **Featured Products & Brands** | **Footer & Subscription** |
+| *[Add your Featured Products screenshot here]* | *[Add your Footer screenshot here]* |
+
+## ⚙️ Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+You'll need to have [Node.js](https://nodejs.org/en/) (v16 or later) and npm (or yarn) installed on your machine.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    ```
+2.  **Navigate into the project directory:**
+    ```sh
+    cd your-repository-name
+    ```
+3.  **Install the dependencies:**
+    ```sh
+    npm install
+    ```
+4.  **Start the development server:**
+    ```sh
+    npm run dev
+    ```
+    The application should now be running on `http://localhost:5173` (or the next available port).
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## 👤 Author
+
+**Talha**
+* Portfolio: [talhatalha.netlify.app](https://talhatalha.netlify.app/)
+* GitHub: [@your-github-username](https://github.com/your-github-username)
