@@ -32,11 +32,12 @@ ToolMart is a fully responsive e-commerce website that mimics the functionality 
 
 ## 📸 Screenshots
 
-| Homepage & Navigation                                    | Deals & Categories                                         |
-| -------------------------------------------------------- | ---------------------------------------------------------- |
-| *[Add your Homepage screenshot here]* | *[Add your Deals & Categories screenshot here]* |
-| **Featured Products & Brands** | **Footer & Subscription** |
-| *[Add your Featured Products screenshot here]* | *[Add your Footer screenshot here]* |
+<img width="1897" height="874" alt="image" src="https://github.com/user-attachments/assets/bcc973ae-40d5-4b25-af16-35095e382404" />
+<img width="998" height="652" alt="image" src="https://github.com/user-attachments/assets/3981cce8-887d-4da8-8901-4d04910f984f" />
+<img width="980" height="702" alt="image" src="https://github.com/user-attachments/assets/449305ea-1629-4254-bb4a-630b571e9646" />
+<img width="974" height="520" alt="image" src="https://github.com/user-attachments/assets/e0bb2bc9-6f6b-4f5c-9ba8-7a13d636846e" />
+
+
 
 ## ⚙️ Getting Started
 
